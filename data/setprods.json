@@ -1,0 +1,17 @@
+{
+    "version": "12348",
+    "producers": [
+      {
+        "producer_name": "alex",
+        "block_signing_key": "<TODO>"
+      },
+      {
+        "producer_name": "rajita",
+        "block_signing_key": "<TODO>"
+      },
+      {
+        "producer_name": "michael",
+        "block_signing_key": "<TODO>"
+      },
+    ]
+  }
